@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am Yash Bansal, currently a sophomore at IIT Delhi doing majors in computer science
+
 passionate about research, reading scientific journals and novels
