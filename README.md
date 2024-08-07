@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yash Bansal, currently a sophomore at IIT Delhi doing majors in computer science
+I am Yash Bansal, currently a Junior at IIT Delhi doing majors in computer science
