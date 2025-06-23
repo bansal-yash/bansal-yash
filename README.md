@@ -13,17 +13,16 @@
 - 🔍 Formal Methods & Model Checking  
 - 📊 Reinforcement Learning  
 - 💻 Python | C++ | C | Matlab
-- 🧰 PyTorch | TensorFlow | Scikit-Learn | OpenCV  
-
+- 🧰 PyTorch | TensorFlow | Scikit-Learn | OpenCV
+ 
+<!-- 
 ---
-
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bansal-yash&show_icons=true&locale=en" alt="bansal-yash" width="320" height="320"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bansal-yash&show_icons=true&locale=en&layout=compact" alt="bansal-yash" width="240" height="320"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bansal-yash&show_icons=true&locale=en)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bansal-yash&show_icons=true&locale=en&layout=compact)
+-->
 ---
 
 ## 📫 Connect with Me
