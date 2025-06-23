@@ -1,18 +1,35 @@
-### Hi there 👋
+# 👋 Hi, I'm Yash Bansal
 
-<!--
-**bansal-yash/bansal-yash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th-year Dual Degree (B.Tech + M.Tech) student at the **Indian Institute of Technology, Delhi**, majoring in **Computer Science and Engineering**.
 
-Here are some ideas to get you started:
+💡 My interests lie in the intersection of **Machine Learning**, **Computer Vision**, and **Formal Verification in Artificial Intelligence**. I enjoy building intelligent systems that are both **powerful** and **reliable**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-I am Yash Bansal, currently a Junior at IIT Delhi doing majors in computer science
+## 🔧 Technologies & Interests
+
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Computer Vision & Generative Models  
+- 🔍 Formal Methods & Model Checking  
+- 📊 Reinforcement Learning  
+- 💻 Python | C++ | C | Matlab
+- 🧰 PyTorch | TensorFlow | Scikit-Learn | OpenCV  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bansal-yash&show_icons=true&locale=en" alt="bansal-yash" width="320" height="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bansal-yash&show_icons=true&locale=en&layout=compact" alt="bansal-yash" width="240" height="320"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ban-yash/)
+
+---
+
+_Thanks for visiting!_ 🚀
